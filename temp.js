@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  new helloworld
 // @author       yutu
 // @match        https://blog.chrxw.com/cross.html
@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-      console.log("hello world");
+      console.log("hello new world");
     // Your code here...
 })();
